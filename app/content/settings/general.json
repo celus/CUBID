@@ -1,7 +1,7 @@
 {
   "title": "Hello",
   "titleTemplate": "| CUBID",
-  "welcomeText": "#Perfection is just the beginning…\n\nComing soon near you.\n\n\n\n\n\nSign up for updates",
+  "welcomeText": "# Perfection is just the beginning…\n\nComing soon near you.\n\n\n\n\n\nSign up for updates",
   "logo": "/images/uploads/logo.svg",
   "icon": "/images/uploads/logo.png",
   "loadingColor": "#000000",
